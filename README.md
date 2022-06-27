@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairalanam" alt="khairalanam" /></a> </p>
 
-- 🌱 I’m currently learning **C#, CSS Animations and JS**
+- 🌱 I’m currently learning **C# and JS**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
