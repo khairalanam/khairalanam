@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khair Alanam</h1>
-<h3 align="center">A passionate frontend&Game developer from India</h3>
+<h1 align="center">Hi yo 👋!, I'm Khair Alanam</h1>
+<h3 align="center">A passionate frontend Developer & UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairalanam&label=Profile%20views&color=0e75b6&style=flat" alt="khairalanam" /> </p>
 
