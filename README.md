@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairalanam" alt="khairalanam" /></a> </p>
 
-- 🌱 I’m currently learning **C# and JS**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
-- 💬 Ask me about **Web development and Game Development**
+- 💬 Ask me about **Web development, UI/UX Design and Time Management**
 
 - 📫 How to reach me **https://www.linkedin.com/in/khair-al-anam-b27b69221/**
 
-- ⚡ Fun fact **I watch anime a lot.**
+- ⚡ Fun fact **I watch anime and read manga.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
