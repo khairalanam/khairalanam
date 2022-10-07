@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khair_alanam" target="blank"><img src="https://img.shields.io/twitter/follow/khair_alanam?logo=twitter&style=for-the-badge" alt="khair_alanam" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **three.js and React**
 
 - 📝 I write articles on [https://dev.to/khair_al_anam](https://dev.to/khair_al_anam)
 
