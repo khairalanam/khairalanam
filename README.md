@@ -1,5 +1,5 @@
 <h1 align="center">Hi yo 👋!, I'm Khair Alanam</h1>
-<h3 align="center">A passionate frontend developer & UI/UX Designer from India</h3>
+<h3 align="center">A passionate web developer & UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairalanam&label=Profile%20views&color=0e75b6&style=flat" alt="khairalanam" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khair_alanam" target="blank"><img src="https://img.shields.io/twitter/follow/khair_alanam?logo=twitter&style=for-the-badge" alt="khair_alanam" /></a> </p>
 
-- 🌱 I’m currently learning **three.js and React**
+- 🌱 I’m currently learning **Nodejs, ExpressJS and MongoDB (as of 01/2023)**
 
 - 📝 I write articles on [https://dev.to/khair_al_anam](https://dev.to/khair_al_anam)
 
