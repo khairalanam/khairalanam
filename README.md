@@ -9,13 +9,13 @@ A Passionate Creative Developer
   <img src="https://profile-counter.glitch.me/khairalanam/count.svg" />
 </p>
 
-I am currently a Computer Science undergrad from India. I am a MERN Developer as well as a UI/UX Designer. I like to work on projects and also learn new technologies and web trends out there. Plus, I am a lifelong learner and a task manager.
+I am currently a Computer Science undergrad from India. I am a full-stack Developer as well as a UI/UX Designer. I like to work on projects and also learn new technologies and web trends out there. Plus, I am a lifelong learner and a task manager.
 
 *   🌍  I'm based in Calicut, India
 *   ✉️  You can contact me at [anaambasheer@gmail.com](mailto:anaambasheer@gmail.com)
-*   🚀  I'm currently working on [Quotaku](http://github.com/khairalanam/Quotaku)
-*   🧠  I'm learning REST APIs and GraphQL
-*   🤝  I'm open to collaborating on any MERN/fullstack project
+*   🚀  I'm currently working on Python Automations and AI Image Generator.
+*   🧠  I'm learning backend technologies.
+*   🤝  I'm open to collaborating on any MERN/fullstack and UI/UX Design projects
 *   ⚡  Fun fact: I watch anime and read manga. <br>
 <br>
 <a href="https://www.github.com/khairalanam" target="_blank" rel="noreferrer"><img
