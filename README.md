@@ -13,9 +13,9 @@ I am currently a Computer Science undergrad from India. I am a full-stack Develo
 
 *   🌍  I'm based in Calicut, India
 *   ✉️  You can contact me at [anaambasheer@gmail.com](mailto:anaambasheer@gmail.com)
-*   🚀  I'm currently working on Python Automations and AI Image Generator.
+*   🚀  I'm currently working on GPRG.
 *   🧠  I'm learning backend technologies.
-*   🤝  I'm open to collaborating on any MERN/fullstack and UI/UX Design projects
+*   🤝  I'm open to collaborating on any Nextjs and UI/UX Design projects
 *   ⚡  Fun fact: I watch anime and read manga. <br>
 <br>
 <a href="https://www.github.com/khairalanam" target="_blank" rel="noreferrer"><img
