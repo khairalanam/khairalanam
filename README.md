@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a research project that deals with ML-based channel estimation in 6G wireless communications.<br>🌱 I’m currently learning Python with Machine Learning.<br>📝 I write tweets on [X](https://x.com/khair_alanam)<br>💬 Ask me about Web Development, UI/UX Design, Frontend Development, and Python Development.<br>📫 How to reach me: https://www.linkedin.com/in/khair-alanam<br>⚡ Fun fact: I like cats.<br>
+🔭 I’m currently working on some cool projects with Python, Web frameworks, and other interesting technologies like Elixir, Golang, etc.<br>🌱 I’m currently learning desktop development with Electronjs.<br>📝 I write tweets on [X](https://x.com/khair_alanam)<br>💬 Ask me about Web Development, UI/UX Design, Frontend Development, and Python Development.<br>📫 How to reach me: https://www.linkedin.com/in/khair-alanam<br>⚡ Fun fact: I like cats.<br>
 
 
 ## 🌐 Socials:
