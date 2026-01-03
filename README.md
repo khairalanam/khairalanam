@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science, AI, and machine learning.<br>👯 I’m looking to collaborate on DS, AI, and ML projects.<br>🤝 I’m looking for help with data science.<br>🌱 I’m currently learning data analysis.<br>💬 Ask me about AI, Python programming, machine learning, and data science.<br>⚡ Fun fact: I draw as a hobby.
+🔭 I’m currently working on data science, AI, and machine learning.<br>👯 I’m looking to collaborate on DS, AI, and ML projects.<br>🤝 I’m looking for help with AI and LLMs.<br>🌱 I’m currently learning Agentic AI.<br>💬 Ask me about AI, Python programming, machine learning, and data science.<br>⚡ Fun fact: I draw as a hobby.
 
 
 # 💻 Tech Stack:
